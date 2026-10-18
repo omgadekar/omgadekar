@@ -79,7 +79,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/stack-dark.svg" />
-  <img src="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/stack-light.svg" alt="Tech stack: C#, SQL Server, Claude Code" width="100%" />
+  <img src="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/stack-light.svg" alt="Tech stack: .NET Core, C#, MS SQL, Docker, Git, Claude Code" width="100%" />
 </picture>
 
 <!-- profilescape:end -->
