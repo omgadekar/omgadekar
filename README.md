@@ -46,18 +46,18 @@
 <table>
   <tr>
     <td width="50%">
-<a href="https://github.com/omgadekar/UrPasswordManager">
+<a href="https://github.com/omgadekar/Til">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/repo-omgadekar-urpasswordmanager-dark.svg" />
-  <img src="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/repo-omgadekar-urpasswordmanager-light.svg" alt="UrPasswordManager: Password Generator and Manager App.Strengthen online security. Generate unique passwords and manage them securely. Biometric login, offline operation, and easy removal." width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/repo-omgadekar-til-dark.svg" />
+  <img src="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/repo-omgadekar-til-light.svg" alt="Til: A wallpaper that counts down." width="100%" />
 </picture>
 </a>
     </td>
     <td width="50%">
-<a href="https://github.com/omgadekar/Online-Vegetable-Store-Management-System">
+<a href="https://github.com/omgadekar/Interval">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/repo-omgadekar-online-vegetable-store-management-system-dark.svg" />
-  <img src="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/repo-omgadekar-online-vegetable-store-management-system-light.svg" alt="Online-Vegetable-Store-Management-System: In India farmers are paid unfairly, To solve that problem the project focuses on directly sourcing from farmers, making sure they get a fair price for their produce and make them more independent." width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/repo-omgadekar-interval-dark.svg" />
+  <img src="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/repo-omgadekar-interval-light.svg" alt="Interval" width="100%" />
 </picture>
 </a>
     </td>
@@ -67,18 +67,10 @@
 <table>
   <tr>
     <td width="50%">
-<a href="https://github.com/omgadekar/Remote-Employee-Management-System">
+<a href="https://github.com/omgadekar/BeOffline">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/repo-omgadekar-remote-employee-management-system-dark.svg" />
-  <img src="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/repo-omgadekar-remote-employee-management-system-light.svg" alt="Remote-Employee-Management-System: .NET Core project to monitor employee working remotely" width="100%" />
-</picture>
-</a>
-    </td>
-    <td width="50%">
-<a href="https://github.com/omgadekar/Til">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/repo-omgadekar-til-dark.svg" />
-  <img src="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/repo-omgadekar-til-light.svg" alt="Til: A wallpaper that counts down." width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/repo-omgadekar-beoffline-dark.svg" />
+  <img src="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/repo-omgadekar-beoffline-light.svg" alt="BeOffline" width="100%" />
 </picture>
 </a>
     </td>
@@ -87,7 +79,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/stack-dark.svg" />
-  <img src="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/stack-light.svg" alt="Tech stack: .NET Core, C#, MS SQL, Docker, Git, Claude Code" width="100%" />
+  <img src="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/stack-light.svg" alt="Tech stack: C#, SQL Server, Claude Code" width="100%" />
 </picture>
 
 <!-- profilescape:end -->
