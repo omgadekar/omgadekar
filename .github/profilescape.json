@@ -1,0 +1,17 @@
+{
+  "options": {
+    "hero": {
+      "role": "Backend Developer - .NET",
+      "chips": [".NET Core", "C#", "MS SQL", "Docker", "Git", "Claude Code"],
+      "codeLanguage": "csharp"
+    },
+    "stack": {
+      "icons": ["dotnet:.NET Core", "csharp:C#", "mssql:MS SQL", "docker:Docker", "git:Git", "claude:Claude Code"]
+    },
+    "socials": {
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/omgadekar/"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+name: Profilescape
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # every day at 03:00 UTC (08:30 IST)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: chethandvg/profilescape@v1
+        with:
+          cards: hero,socials,stats,3d,languages,repos,stack
+          theme: aurora
+          config: .github/profilescape.json
+          readme: README.md
+          # Optional: include private contributions with a read-only PAT.
+          # token: ${{ secrets.PROFILESCAPE_TOKEN }}
