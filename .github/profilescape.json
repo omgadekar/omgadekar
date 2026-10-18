@@ -2,11 +2,11 @@
   "options": {
     "hero": {
       "role": "Backend Developer - .NET",
-      "chips": [".NET Core", "C#", "MS SQL", "Docker", "Git", "Claude Code"],
+      "chips": [".NET Core", "C#", "MS SQL", "Docker", "Git"],
       "codeLanguage": "csharp"
     },
     "stack": {
-      "icons": ["dotnet:.NET Core", "csharp:C#", "mssql:MS SQL", "docker:Docker", "git:Git", "claude:Claude Code"]
+      "icons": ["dotnet:.NET Core", "csharp:C#", "mssql:MS SQL", "docker", "git", "claude:Claude Code"]
     },
     "socials": {
       "links": {
