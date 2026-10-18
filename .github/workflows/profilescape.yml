@@ -18,6 +18,7 @@ jobs:
           cards: hero,socials,stats,3d,languages,repos,stack
           theme: aurora
           config: .github/profilescape.json
+          repos: askthepolicy,Til,Interval,BeOffline
           readme: README.md
           # Optional: include private contributions with a read-only PAT.
           # token: ${{ secrets.PROFILESCAPE_TOKEN }}

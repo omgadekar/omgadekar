@@ -6,7 +6,7 @@
       "codeLanguage": "csharp"
     },
     "stack": {
-      "icons": ["dotnet:.NET Core", "csharp:C#", "mssql:MS SQL", "docker", "git", "claude:Claude Code"]
+      "icons": ["csharp:C#", "mssql:SQL Server", "claude:Claude Code"]
     },
     "socials": {
       "links": {
