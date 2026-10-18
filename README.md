@@ -42,6 +42,18 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/languages-dark.svg" />
   <img src="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/languages-light.svg" alt="Most used languages (by commits): Kotlin 70.4%, Java 16.9%, C# 12.5%, PowerShell 0.1%, Batchfile 0.1%, Assembly &lt;0.1%" width="100%" />
 </picture>
+<table>
+  <tr>
+    <td width="50%">
+<a href="https://github.com/omgadekar/askthepolicy">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/repo-omgadekar-askthepolicy-dark.svg" />
+  <img src="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/repo-omgadekar-askthepolicy-light.svg" alt="askthepolicy" width="100%" />
+</picture>
+</a>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
