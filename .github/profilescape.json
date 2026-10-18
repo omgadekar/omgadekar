@@ -2,11 +2,25 @@
   "options": {
     "hero": {
       "role": "Backend Developer - .NET",
-      "chips": [".NET Core", "C#", "MS SQL", "Docker", "Git"],
-      "codeLanguage": "csharp"
+      "chips": [
+        ".NET Core",
+        "C#",
+        "MS SQL",
+        "Docker",
+        "Git"
+      ],
+      "codeLanguage": "csharp",
+      "code": "var me = new Developer\n{\n    Name  = \"Om Gadekar\",\n    Stack = [\"C#\", \"SQL Server\",\n             \"Claude Code\"],\n    Focus = \"Backend APIs for banking\",\n    Since = 2024,\n};\nawait me.ShipAsync();"
     },
     "stack": {
-      "icons": ["csharp:C#", "mssql:SQL Server", "claude:Claude Code"]
+      "icons": [
+        "dotnet:.NET Core",
+        "csharp:C#",
+        "mssql:MS SQL",
+        "docker",
+        "git",
+        "claude:Claude Code"
+      ]
     },
     "socials": {
       "links": {
