@@ -30,12 +30,12 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/stats-dark.svg" />
-  <img src="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/stats-light.svg" alt="GitHub stats: 150 contributions in the last 12 months. Current streak: 1 day, Longest streak: 4 days, Commits: 74 past year, All-time: 258 since 2020, Best week: 50 in 7 days, On GitHub: 5 years." width="100%" />
+  <img src="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/stats-light.svg" alt="GitHub stats: 151 contributions in the last 12 months. Current streak: 2 days, Longest streak: 4 days, Commits: 74 past year, All-time: 259 since 2020, Best week: 51 in 7 days, On GitHub: 5 years." width="100%" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/3d-dark.svg" />
-  <img src="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/3d-light.svg" alt="3D contribution landscape: 150 contributions in the last year" width="100%" />
+  <img src="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/3d-light.svg" alt="3D contribution landscape: 151 contributions in the last year" width="100%" />
 </picture>
 
 <picture>
