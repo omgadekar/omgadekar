@@ -30,17 +30,17 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/stats-dark.svg" />
-  <img src="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/stats-light.svg" alt="GitHub stats: 151 contributions in the last 12 months. Current streak: 0 days, Longest streak: 4 days, Commits: 74 past year, All-time: 259 since 2020, Best week: 48 in 7 days, On GitHub: 5 years." width="100%" />
+  <img src="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/stats-light.svg" alt="GitHub stats: 172 contributions in the last 12 months. Current streak: 5 days, Longest streak: 5 days, Commits: 95 past year, All-time: 280 since 2020, Best week: 54 in 7 days, On GitHub: 5 years." width="100%" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/3d-dark.svg" />
-  <img src="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/3d-light.svg" alt="3D contribution landscape: 151 contributions in the last year" width="100%" />
+  <img src="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/3d-light.svg" alt="3D contribution landscape: 172 contributions in the last year" width="100%" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/languages-dark.svg" />
-  <img src="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/languages-light.svg" alt="Most used languages (by commits): Kotlin 67.1%, Java 17.1%, C# 15.2%, PLpgSQL 0.5%, PowerShell 0.1%, Batchfile &lt;0.1%, Assembly &lt;0.1%" width="100%" />
+  <img src="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/languages-light.svg" alt="Most used languages (by commits): Kotlin 66.2%, Java 17.1%, C# 15.8%, PLpgSQL 0.5%, Dockerfile 0.2%, PowerShell 0.1%, Other 0.1%" width="100%" />
 </picture>
 
 <table>
