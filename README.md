@@ -30,7 +30,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/stats-dark.svg" />
-  <img src="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/stats-light.svg" alt="GitHub stats: 172 contributions in the last 12 months. Current streak: 0 days, Longest streak: 5 days, Commits: 95 past year, All-time: 280 since 2020, Best week: 60 in 7 days, On GitHub: 5 years." width="100%" />
+  <img src="https://raw.githubusercontent.com/omgadekar/omgadekar/profilescape-output/stats-light.svg" alt="GitHub stats: 172 contributions in the last 12 months. Current streak: 0 days, Longest streak: 5 days, Commits: 95 past year, All-time: 280 since 2020, Best week: 53 in 7 days, On GitHub: 5 years." width="100%" />
 </picture>
 
 <picture>
